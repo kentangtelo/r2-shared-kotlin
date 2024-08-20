@@ -61,8 +61,8 @@ dependencies {
     implementation 'com.jakewharton.timber:timber:4.7.1'
     implementation "com.android.support:appcompat-v7:$support_version"
     implementation 'com.google.code.gson:gson:2.8.5'
-    implementation 'com.github.kittinunf.fuel:fuel:1.15.0'
-    implementation 'com.github.kittinunf.fuel:fuel-android:1.15.0'
+    implementation 'com.github.kittinunf.fuel:fuel:2.2.3'
+    implementation 'com.github.kittinunf.fuel:fuel-android:2.2.3'
     implementation 'nl.komponents.kovenant:kovenant:3.3.0'
     implementation 'nl.komponents.kovenant:kovenant-core:3.3.0'
     implementation 'nl.komponents.kovenant:kovenant-android:3.3.0'
